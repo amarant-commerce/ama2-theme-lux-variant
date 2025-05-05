@@ -1,0 +1,21 @@
+{
+  "name": "amarant2/theme-lux-variant",
+  "description": "Amarant Lux Variant example theme",
+  "require": {
+    "amarant2/module-framework": "dev-master"
+  },
+  "type": "amarant-theme",
+  "license": [
+    "proprietary"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Amarant\\LuxVariant\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
